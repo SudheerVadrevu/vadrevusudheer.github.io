@@ -1,7 +1,7 @@
 # vadrevusudheer.github.io
-## Practical Front-End Projects with Pure Javascript, CSS, and HTML
+## My Practical Front-End Projects with Pure Javascript, CSS, and HTML(some of them are from my Master degree courses)
 
-A collection of practical, easy to use front-end related projects for enthusiasts and beginners. The main purpose is to learn. The codes are free and always will be.
+ My main purpose is to learn .
 
 **Notes:**
 
@@ -37,7 +37,7 @@ In this project I customized the video controls and designed them manually. Focu
 - Fullscreen handling
 - CSS variables
 
-### Lovely Movies 
+### Lovely Movies (Done in one of my master's degree courses)
 
 A simple movie search website.
 
@@ -63,7 +63,7 @@ A practical note web app to handle categorized notes. There are notes that can h
 - Layouting with CSS grid system
 - localStorage usage
 
-### Othello Board Game 
+### Othello Board Game (Done in one of my master's degree courses)
 
 Famous strategy game Othello, known as Reversi, implemented in pure Javascript.
 
@@ -77,7 +77,7 @@ Famous strategy game Othello, known as Reversi, implemented in pure Javascript.
 - Event handling
 - Error handling
 
-### Quiz App
+### Quiz App (Done in one of my master's degree courses)
 
 Simulating a quiz in web app.
 
@@ -101,7 +101,7 @@ A simple implementation of a small range slider with pure Javascript.
 - DOM events handling
 - CSS variables
 
-### Web Chat App 
+### Web Chat App (Done in one of my master's degree courses)
 
 This project is a real messaging app that developed with pure javascript without third-party libs. We focused on the Web Components in this project and give it a real component structure. All chats, messages, data are fake and generated with a data-factory. I hope It would be useful.
 
