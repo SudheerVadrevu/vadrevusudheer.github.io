@@ -1,5 +1,5 @@
 # vadrevusudheer.github.io
-## My Practical Front-End Projects with Pure Javascript, CSS, and HTML(some of them are from my Master degree courses)
+## My Practical Front-End Projects with Pure Javascript, CSS, and HTML
 
  My main purpose is to learn .
 
